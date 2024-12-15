@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0583624-8953-441f-9f94-0866d2c2368f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rkpo_lab4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-D5fQcbph.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-DeJjPYJl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/esbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/esbuild.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/esbuild.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/gh-pages-clean.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/gh-pages-clean.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/gh-pages.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/gh-pages.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/vite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/vite.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/vite.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/@hello-pangea_dnd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/@hello-pangea_dnd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-I4MZPW7S.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-I4MZPW7S.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-M324AGAM.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-M324AGAM.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react-dom_client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react-dom_client.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react-router-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react-router-dom.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-dev-runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-dev-runtime.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/react_jsx-runtime.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps_temp_d1ff30a5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-react-jsx-self/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-react-jsx-self/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-react-jsx-self/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-react-jsx-self/lib/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-react-jsx-self/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-react-jsx-self/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-react-jsx-self/tsconfig.tsbuildinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-react-jsx-source/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-react-jsx-source/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-react-jsx-source/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-react-jsx-source/lib/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-react-jsx-source/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-react-jsx-source/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/plugin-transform-react-jsx-source/tsconfig.tsbuildinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/traverse/node_modules/globals/globals.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/traverse/node_modules/globals/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/traverse/node_modules/globals/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/traverse/node_modules/globals/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/traverse/node_modules/globals/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@esbuild/win32-x64/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@esbuild/win32-x64/esbuild.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@esbuild/win32-x64/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/config-array/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/config-array/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/config-array/dist/cjs/index.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/config-array/dist/cjs/index.d.cts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/config-array/dist/cjs/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/config-array/dist/esm/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/config-array/dist/esm/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/config-array/dist/esm/types.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/config-array/dist/esm/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/config-array/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@eslint/js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/js/src/configs/eslint-all.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@eslint/js/src/configs/eslint-all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/js/src/configs/eslint-recommended.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@eslint/js/src/configs/eslint-recommended.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/object-schema/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/object-schema/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/object-schema/dist/cjs/index.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/object-schema/dist/cjs/index.d.cts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/object-schema/dist/cjs/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/object-schema/dist/esm/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/object-schema/dist/esm/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/object-schema/dist/esm/types.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/object-schema/dist/esm/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/object-schema/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/plugin-kit/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/plugin-kit/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/plugin-kit/dist/cjs/index.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/plugin-kit/dist/cjs/index.d.cts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/plugin-kit/dist/cjs/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/plugin-kit/dist/esm/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/plugin-kit/dist/esm/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/plugin-kit/dist/esm/types.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/plugin-kit/dist/esm/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@eslint/plugin-kit/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/dist/dnd.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/dist/dnd.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/dist/dnd.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/dist/dnd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/dist/dnd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/animation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/debug/middleware/action-timing-average.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/debug/middleware/action-timing.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/debug/middleware/log.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/debug/middleware/user-timing.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/debug/timings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/dev-warning.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/empty.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/global.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/invariant.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/lib-types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/query-selector-all.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/screen-reader-message-preset.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/action-creators.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/auto-scroller-types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/can-scroll.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/fluid-scroller/auto-scroller-options-types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/fluid-scroller/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/fluid-scroller/get-best-scrollable-droppable.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/fluid-scroller/get-droppable-scroll-change.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/fluid-scroller/get-percentage.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/fluid-scroller/get-scroll/adjust-for-size-limits.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/fluid-scroller/get-scroll/get-scroll-on-axis/dampen-value-by-time.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/fluid-scroller/get-scroll/get-scroll-on-axis/get-distance-thresholds.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/fluid-scroller/get-scroll/get-scroll-on-axis/get-value-from-distance.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/fluid-scroller/get-scroll/get-scroll-on-axis/get-value.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/fluid-scroller/get-scroll/get-scroll-on-axis/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/fluid-scroller/get-scroll/get-scroll-on-axis/min-scroll.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/fluid-scroller/get-scroll/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/fluid-scroller/get-window-scroll-change.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/fluid-scroller/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/fluid-scroller/scroll.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/auto-scroller/jump-scroller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/axis.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/calculate-drag-impact/calculate-reorder-impact.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/can-start-drag.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/create-store.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/did-start-after-critical.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/dimension-marshal/dimension-marshal-types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/dimension-marshal/dimension-marshal.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/dimension-marshal/get-initial-publish.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/dimension-marshal/while-dragging-publisher.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/dimension-structures.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/droppable/get-droppable.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/droppable/is-home-of.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/droppable/scroll-droppable.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/droppable/should-use-placeholder.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/droppable/util/clip.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/droppable/util/get-subject.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/droppable/what-is-dragged-over-from-result.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/droppable/what-is-dragged-over.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/droppable/with-placeholder.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-center-from-impact/get-client-border-box-center/get-client-from-page-border-box-center.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-center-from-impact/get-client-border-box-center/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-center-from-impact/get-page-border-box-center/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-center-from-impact/get-page-border-box-center/when-combining.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-center-from-impact/get-page-border-box-center/when-reordering.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-center-from-impact/move-relative-to.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-combined-item-displacement.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-displaced-by.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-displacement-groups.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-drag-impact/get-combine-impact.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-drag-impact/get-reorder-impact.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-drag-impact/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-draggables-inside-droppable.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-droppable-over.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-frame.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-home-location.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-impact-location.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-is-displaced.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-lift-effect.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/get-max-scroll.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/is-dragging.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/is-movement-allowed.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/is-within.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/auto-scroll.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/dimension-marshal-stopper.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/drop/drop-animation-finish-middleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/drop/drop-animation-flush-on-scroll-middleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/drop/drop-middleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/drop/get-drop-duration.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/drop/get-drop-impact.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/drop/get-new-home-client-offset.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/drop/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/focus.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/lift.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/pending-drop.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/responders/async-marshal.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/responders/expiring-announce.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/responders/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/responders/is-equal.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/responders/publisher.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/responders/responders-middleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/scroll-listener.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/middleware/util/validate-dimensions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/move-in-direction/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/move-in-direction/move-cross-axis/get-best-cross-axis-droppable.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/move-in-direction/move-cross-axis/get-closest-draggable.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/move-in-direction/move-cross-axis/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/move-in-direction/move-cross-axis/move-to-new-droppable.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/move-in-direction/move-cross-axis/without-starting-displacement.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/move-in-direction/move-in-direction-types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/move-in-direction/move-to-next-place/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/move-in-direction/move-to-next-place/is-totally-visible-in-new-location.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/move-in-direction/move-to-next-place/move-to-next-combine/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/move-in-direction/move-to-next-place/move-to-next-index/from-combine.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/move-in-direction/move-to-next-place/move-to-next-index/from-reorder.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/move-in-direction/move-to-next-place/move-to-next-index/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/no-impact.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/patch-dimension-map.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/patch-droppable-map.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/position.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/post-reducer/when-moving/refresh-snap.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/post-reducer/when-moving/update.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/publish-while-dragging-in-virtual/adjust-additions-for-scroll-changes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/publish-while-dragging-in-virtual/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/publish-while-dragging-in-virtual/offset-draggable.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/recompute-placeholders.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/rect.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/reducer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/registry/create-registry.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/registry/registry-types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/registry/use-registry.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/remove-draggable-from-list.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/scroll-viewport.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/spacing.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/store-types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/update-displacement-visibility/recompute.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/update-displacement-visibility/speculatively-increase.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/visibility/is-partially-visible-through-frame.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/visibility/is-position-in-frame.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/visibility/is-totally-visible-through-frame-on-axis.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/visibility/is-totally-visible-through-frame.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/visibility/is-visible.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/with-scroll-change/with-all-displacement.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/with-scroll-change/with-droppable-displacement.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/with-scroll-change/with-droppable-scroll.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/state/with-scroll-change/with-viewport-displacement.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/animate-in-out/animate-in-out.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/animate-in-out/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/check-is-valid-inner-ref.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/context/app-context.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/context/droppable-context.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/context/store-context.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/data-attributes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/drag-drop-context/app.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/drag-drop-context/check-doctype.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/drag-drop-context/check-react-version.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/drag-drop-context/drag-drop-context-types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/drag-drop-context/drag-drop-context.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/drag-drop-context/error-boundary.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/drag-drop-context/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/drag-drop-context/use-startup-validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/drag-drop-context/use-unique-context-id.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/draggable/connected-draggable.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/draggable/draggable-api.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/draggable/draggable-types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/draggable/draggable.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/draggable/get-style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/draggable/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/draggable/use-validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/droppable/connected-droppable.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/droppable/droppable-types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/droppable/droppable.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/droppable/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/droppable/use-validation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/event-bindings/bind-events.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/event-bindings/event-types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/get-body-element.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/get-border-box-center-position.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/get-document-element.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/get-elements/find-drag-handle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/get-elements/find-draggable.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/is-strict-equal.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/is-type-of-element/is-element.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/is-type-of-element/is-html-element.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/is-type-of-element/is-svg-element.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/key-codes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/placeholder/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/placeholder/placeholder-types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/placeholder/placeholder.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/scroll-listener.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/throw-if-invalid-inner-ref.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-announcer/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-announcer/use-announcer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-dev-setup-warning.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-dev.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-draggable-publisher/get-dimension.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-draggable-publisher/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-draggable-publisher/use-draggable-publisher.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-droppable-publisher/check-for-nested-scroll-container.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-droppable-publisher/get-closest-scrollable.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-droppable-publisher/get-dimension.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-droppable-publisher/get-env.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-droppable-publisher/get-listener-options.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-droppable-publisher/get-scroll.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-droppable-publisher/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-droppable-publisher/is-in-fixed-container.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-droppable-publisher/use-droppable-publisher.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-focus-marshal/focus-marshal-types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-focus-marshal/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-focus-marshal/use-focus-marshal.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-hidden-text-element/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-hidden-text-element/use-hidden-text-element.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-isomorphic-layout-effect.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-previous-ref.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-required-context.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-sensor-marshal/closest.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-sensor-marshal/find-closest-draggable-id-from-event.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-sensor-marshal/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-sensor-marshal/is-event-in-interactive-element.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-sensor-marshal/lock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-sensor-marshal/sensors/use-keyboard-sensor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-sensor-marshal/sensors/use-mouse-sensor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-sensor-marshal/sensors/use-touch-sensor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-sensor-marshal/sensors/util/prevent-standard-key-events.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-sensor-marshal/sensors/util/supported-page-visibility-event-name.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-sensor-marshal/use-sensor-marshal.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-sensor-marshal/use-validate-sensor-hooks.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-style-marshal/get-styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-style-marshal/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-style-marshal/style-marshal-types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-style-marshal/use-style-marshal.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/use-unique-id.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/visually-hidden-style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/window/get-max-window-scroll.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/window/get-viewport.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/window/get-window-from-el.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/window/get-window-scroll.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@hello-pangea/dnd/src/view/window/scroll-window.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@humanwhocodes/retry/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@humanwhocodes/retry/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@humanwhocodes/retry/dist/retrier.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@humanwhocodes/retry/dist/retrier.d.cts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@humanwhocodes/retry/dist/retrier.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@humanwhocodes/retry/dist/retrier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@humanwhocodes/retry/dist/retrier.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@humanwhocodes/retry/dist/retrier.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@humanwhocodes/retry/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rollup/rollup-win32-x64-msvc/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rollup/rollup-win32-x64-msvc/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@rollup/rollup-win32-x64-msvc/rollup.win32-x64-msvc.node" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/estree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/estree/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/estree/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/estree/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/estree/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@types/estree/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/use-sync-external-store/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/use-sync-external-store/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/use-sync-external-store/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/use-sync-external-store/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/use-sync-external-store/shim/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/use-sync-external-store/shim/with-selector.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/use-sync-external-store/with-selector.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitejs/plugin-react/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitejs/plugin-react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitejs/plugin-react/dist/index.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitejs/plugin-react/dist/index.d.cts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitejs/plugin-react/dist/index.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitejs/plugin-react/dist/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitejs/plugin-react/dist/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitejs/plugin-react/dist/refreshUtils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitejs/plugin-react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/argparse/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/argparse/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/argparse/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/argparse/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/argparse/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/argparse/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/argparse/argparse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/argparse/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/argparse/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/caniuse-lite/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/caniuse-lite/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/esm.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/esm.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/lib/argument.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/lib/argument.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/lib/command.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/lib/command.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/lib/error.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/lib/error.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/lib/help.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/lib/help.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/lib/option.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/lib/option.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/typings/esm.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/typings/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/commander/typings/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/doctrine/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/doctrine/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/doctrine/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/doctrine/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/bin/esbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/install.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/lib/main.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/lib/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-react-hooks/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-react-hooks/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-react-hooks/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-react-hooks/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-react-hooks/cjs/eslint-plugin-react-hooks.development.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-react-hooks/cjs/eslint-plugin-react-hooks.development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-react-hooks/cjs/eslint-plugin-react-hooks.production.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-react-hooks/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-react-hooks/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-react-hooks/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-react-hooks/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-react-refresh/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-react-refresh/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-react-refresh/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eslint-plugin-react-refresh/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eslint-scope/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-scope/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eslint-scope/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-scope/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eslint-visitor-keys/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-visitor-keys/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eslint-visitor-keys/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint-visitor-keys/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eslint/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eslint/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/espree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/espree/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/espree/espree.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/espree/espree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/espree/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/espree/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/file-entry-cache/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/file-entry-cache/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/file-entry-cache/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/file-entry-cache/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/file-entry-cache/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/file-entry-cache/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-up/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/find-up/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-up/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/find-up/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-up/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/find-up/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/find-up/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/find-up/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/flat-cache/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/flat-cache/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/flat-cache/changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/flat-cache/changelog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/flat-cache/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/flat-cache/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy/copy-sync.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy/copy-sync.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy/copy.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy/copy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/copy/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/file.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/file.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/link.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/link.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink-paths.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink-paths.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink-type.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink-type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/esm.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/fs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/fs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/move/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/move/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/move/move-sync.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/move/move-sync.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/move/move.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/move/move.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/output-file/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/output-file/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/remove/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/remove/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/util/stat.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/util/stat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/lib/util/utimes.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/lib/util/utimes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-extra/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fs-extra/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/globals/globals.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globals/globals.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/globals/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/globals/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globals/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/globals/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globals/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/globals/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/globals/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-yaml/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-yaml/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-yaml/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-yaml/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-yaml/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-yaml/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-yaml/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-yaml/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/locate-path/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/locate-path/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/locate-path/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/locate-path/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/locate-path/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/locate-path/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/locate-path/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/locate-path/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/locate-path/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/locate-path/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/memoize-one/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/memoize-one/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/memoize-one/dist/memoize-one.cjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/memoize-one/dist/memoize-one.cjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/memoize-one/dist/memoize-one.cjs.js.flow" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/memoize-one/dist/memoize-one.cjs.js.flow" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/memoize-one/dist/memoize-one.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/memoize-one/dist/memoize-one.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/memoize-one/dist/memoize-one.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/memoize-one/dist/memoize-one.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/memoize-one/dist/memoize-one.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/memoize-one/dist/memoize-one.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/memoize-one/dist/memoize-one.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/memoize-one/dist/memoize-one.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/memoize-one/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/memoize-one/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/memoize-one/src/are-inputs-equal.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/memoize-one/src/are-inputs-equal.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/memoize-one/src/memoize-one.js.flow" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/memoize-one/src/memoize-one.js.flow" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/memoize-one/src/memoize-one.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/memoize-one/src/memoize-one.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-limit/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-limit/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-limit/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-limit/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-limit/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-limit/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-limit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-limit/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-limit/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-limit/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-locate/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-locate/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-locate/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-locate/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-locate/license" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-locate/license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-locate/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-locate/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/p-locate/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/p-locate/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/find-up/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/find-up/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/find-up/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/find-up/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/find-up/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/locate-path/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/locate-path/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/locate-path/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/locate-path/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/locate-path/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/p-limit/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/p-limit/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/p-limit/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/p-limit/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/p-limit/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/p-locate/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/p-locate/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/p-locate/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/p-locate/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pkg-dir/node_modules/p-locate/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-is/build-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-is/build-info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-is/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-is/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-redux/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-redux/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-redux/dist/cjs/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-redux/dist/cjs/react-redux.development.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-redux/dist/cjs/react-redux.development.cjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-redux/dist/cjs/react-redux.production.min.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-redux/dist/cjs/react-redux.production.min.cjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-redux/dist/react-redux.browser.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-redux/dist/react-redux.browser.mjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-redux/dist/react-redux.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-redux/dist/react-redux.legacy-esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-redux/dist/react-redux.legacy-esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-redux/dist/react-redux.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-redux/dist/react-redux.mjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-redux/dist/rsc.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-redux/dist/rsc.mjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-redux/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-redux/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-refresh/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-refresh/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/redux/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/dist/cjs/redux.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/dist/cjs/redux.cjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/dist/redux.browser.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/dist/redux.browser.mjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/dist/redux.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/dist/redux.legacy-esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/dist/redux.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/dist/redux.mjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/redux/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/applyMiddleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/bindActionCreators.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/combineReducers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/compose.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/createStore.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/types/actions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/types/middleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/types/reducers.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/types/store.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/utils/actionTypes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/utils/formatProdErrorMessage.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/utils/isAction.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/utils/isPlainObject.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/utils/kindOf.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/utils/symbol-observable.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redux/src/utils/warning.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve-from/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/resolve-from/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve-from/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/resolve-from/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve-from/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/resolve-from/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/resolve/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/resolve/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/resolve/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/resolve/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/readme.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/resolve/readme.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rollup/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rollup/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/bin/rollup" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rollup/dist/bin/rollup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/es/getLogFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/es/parseAst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/es/rollup.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rollup/dist/es/rollup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/es/shared/node-entry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/es/shared/parseAst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/es/shared/watch.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rollup/dist/es/shared/watch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/getLogFilter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/getLogFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/loadConfigFile.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/loadConfigFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rollup/dist/loadConfigFile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/parseAst.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/parseAst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/rollup.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rollup/dist/rollup.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/rollup.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rollup/dist/rollup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/shared/fsevents-importer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/shared/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rollup/dist/shared/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/shared/loadConfigFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rollup/dist/shared/loadConfigFile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/shared/parseAst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/shared/rollup.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rollup/dist/shared/rollup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/shared/watch-cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rollup/dist/shared/watch-cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/dist/shared/watch.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rollup/dist/shared/watch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rollup/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/rollup/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/semver/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/semver/semver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/cjs/use-sync-external-store-shim.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/cjs/use-sync-external-store-shim.native.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/cjs/use-sync-external-store-shim.native.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/cjs/use-sync-external-store-shim.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/cjs/use-sync-external-store-shim/with-selector.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/cjs/use-sync-external-store-shim/with-selector.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/cjs/use-sync-external-store-with-selector.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/cjs/use-sync-external-store-with-selector.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/cjs/use-sync-external-store.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/cjs/use-sync-external-store.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/shim/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/shim/index.native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/shim/with-selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/use-sync-external-store/with-selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/bin/openChrome.applescript" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/bin/vite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/client.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/client/client.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/client/env.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node-cjs/publicUtils.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/chunks/dep-CEc13REz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/chunks/dep-CdRA0jgn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/chunks/dep-D-7KCb9p.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/chunks/dep-DG6Lorbi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/chunks/dep-IQS-Za7F.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/runtime.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/dist/node/types.d-aGj9QkWt.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/index.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/index.d.cts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/types/customEvent.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/types/hmrPayload.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/types/hot.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/types/import-meta.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/types/importGlob.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/types/importMeta.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/types/metadata.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vite/types/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TodoItem.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TodoList.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/DndPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/TodoPage.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2qEHdFH4S67KVPHryBLY7vRIySd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/dev/lab4_githubpages",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.2.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\rkpo_lab4\project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.predeploy">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/project/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="predeploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="predeploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.predeploy" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0583624-8953-441f-9f94-0866d2c2368f" name="Changes" comment="" />
+      <created>1734220899438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734220899438</updated>
+      <workItem from="1734220902361" duration="6019000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
