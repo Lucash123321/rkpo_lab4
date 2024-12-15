@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rkpo_lab4/static/css/main.f19d962c.css",
+    "main.js": "/rkpo_lab4/static/js/main.1f3f82e6.js",
+    "static/js/453.37753ddd.chunk.js": "/rkpo_lab4/static/js/453.37753ddd.chunk.js",
+    "index.html": "/rkpo_lab4/index.html",
+    "main.f19d962c.css.map": "/rkpo_lab4/static/css/main.f19d962c.css.map",
+    "main.1f3f82e6.js.map": "/rkpo_lab4/static/js/main.1f3f82e6.js.map",
+    "453.37753ddd.chunk.js.map": "/rkpo_lab4/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f19d962c.css",
+    "static/js/main.1f3f82e6.js"
+  ]
+}
